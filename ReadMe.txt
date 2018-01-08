@@ -1,7 +1,8 @@
 This is an implement of SPE_PP
 
 What's SPE_PP?
-answer: this is a searchable public encryption scheme with privacy protection. 
+answer: this is a searchable public encryption scheme with privacy protection. In additional, theres are other solutions as well.
+for example, the public key encryption with keyword search..
 
 Prerequisites
 
